@@ -23,11 +23,20 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 <h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension?</h4>
 
-- <h5>StackExchange: No</h5>
-- <h5>WHATWG: No</h5>
-- <h5>es-discuss: No</h5>
-- <h5>Twitter: No</h5>
-- <h5>W3C: No</h5>
-- <h5>Web Platform Tests: No</h5>
+- StackExchange: <b>No</b>
+- WHATWG: <b>No</b>
+- es-discuss: <b>No</b>
+- Twitter: <b>No</b>
+- W3C: <b>No</b>
+- Web Platform Tests: <b>No</b>
 
+# Reprisals
 
+<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions engage in reprisals against users for asking questions (Freedom of Speech) or attempting to appeal their imposed ban or suspension?</h4>
+
+- StackExchange: <b>Yes</b>
+- WHATWG: <b>Yes</b>
+- es-discuss: <b>Yes</b>
+- Twitter: <b>Yes. (You are probably not dealing with a real human)</b>
+- W3C: <b>Yes</b>
+- Web Platform Tests: <b>Yes</b>
