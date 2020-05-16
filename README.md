@@ -37,6 +37,6 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - StackExchange: <b>Yes</b>
 - WHATWG: <b>Yes</b>
 - es-discuss: <b>Yes</b>
-- Twitter: <b>Yes. (You are probably not dealing with a real human)</b>
+- Twitter: <b>Yes. (Asked if a human being was reading the email appealing account suspension for no reason, got no response.)</b>
 - W3C: <b>Yes</b>
 - Web Platform Tests: <b>Yes</b>
