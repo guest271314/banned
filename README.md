@@ -1,6 +1,6 @@
 # banned
 
-<h4>Been banned from a site or organization?</h4>
+<h4>Banned or suspended from a site or organization?</h4>
 
 <h4>Why?</h4>
 
