@@ -37,6 +37,13 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - StackExchange: <b>Yes</b>
 - WHATWG: <b>Yes</b>
 - es-discuss: <b>Yes</b>
-- Twitter: <b>Yes. (Asked if a human being was reading the email appealing account suspension for no reason, got no response.)</b>
+- Twitter: <b>Yes.<b>
 - W3C: <b>Yes</b>
 - Web Platform Tests: <b>Yes</b>
+
+# The Algorithm Did It
+
+<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions cite an algorithm as the reason for the ban or account suspension?</h4>
+
+- StackExchange: <b>Yes</b>
+- Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Am not sure if a natural human being reads emails appealing an account suspension. Asked Twitter if an actual human being was reading the email, received no reply.
