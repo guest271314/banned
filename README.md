@@ -17,3 +17,13 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 > Goebbels was in favor of free speech for views he liked. So was Stalin. If you’re really in favor of free speech, then you’re in favor of freedom of speech for precisely the views you despise. Otherwise, you’re not in favor of free speech. - Noam Chomsky
 
+--
+
+<h4>Sites/organizations that have an appeals process for the account suspensions and/or bans they impose</h4>
+
+- StackExchange: <b>No</b>
+- WHATWG: <b>No</b>
+- es-discuss: <b>No</b>
+- Twitter: <b>No</b>
+- W3C: <b>No</b>
+- Web Platform Tests: <b>No</b>
