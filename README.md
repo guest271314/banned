@@ -1,6 +1,8 @@
 # banned
 
-Been banned from a site or organization? Why?
+<h4>Been banned from a site or organization?</h4>
+
+<h4>Why?</h4>
 
 Send PR: Your side. Their side. Or, just lists of sites you were banned from. Which users have been banned from which sites, that perhaps cannot speak for themselves? Frame your content however you want.
 
@@ -17,13 +19,15 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 > Goebbels was in favor of free speech for views he liked. So was Stalin. If you’re really in favor of free speech, then you’re in favor of freedom of speech for precisely the views you despise. Otherwise, you’re not in favor of free speech. - Noam Chomsky
 
---
+#Due Process, Recourse, Remedy, Transparency
 
-<h4>Sites/organizations that have an appeals process for the account suspensions and/or bans they impose</h4>
+<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension?</h4>
 
-- StackExchange: <b>No</b>
-- WHATWG: <b>No</b>
-- es-discuss: <b>No</b>
-- Twitter: <b>No</b>
-- W3C: <b>No</b>
-- Web Platform Tests: <b>No</b>
+- <h5>StackExchange: No</h5>
+- <h5>WHATWG: No</h5>
+- <h5>es-discuss: <h5>No</h5>
+- <h5>Twitter: No</h5>
+- <h5>W3C: No</h5>
+- <h5>Web Platform Tests: No</h5>
+
+
