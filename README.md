@@ -37,7 +37,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - StackExchange: <b>Yes</b>
 - WHATWG: <b>Yes</b>
 - es-discuss: <b>Yes</b>
-- Twitter: <b>Yes.<b>
+- Twitter: <b>Yes.</b>
 - W3C: <b>Yes</b>
 - Web Platform Tests: <b>Yes</b>
 
