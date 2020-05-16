@@ -47,3 +47,8 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 - StackExchange: <b>Yes</b>
 - Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Am not sure if a natural human being reads emails appealing an account suspension. Asked Twitter if an actual human being was reading the email, received no reply.
+
+# Do sites or organizations ask you for state issued identification when you appeal account suspension even though they never asked you for state issued identification to sign up for the site or organization?
+- Twitter: <b>Yes.</b>
+
+
