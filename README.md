@@ -48,7 +48,9 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - StackExchange: <b>Yes</b>
 - Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Am not sure if a natural human being reads emails appealing an account suspension. Asked Twitter if an actual human being was reading the email, received no reply.
 
-# Do sites or organizations ask you for state issued identification when you appeal account suspension even though they never asked you for state issued identification to sign up for the site or organization?
+# Show me your papers
+<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions ask you to email them a copy of a state issued identification to proceed with an appeal - even where no such state issued identification was required to become a member of the organization or create a user account - thus there is nothing for the site to compare an indentification to, unless they really are effectively an agent of or are the state?</h4>
+
 - Twitter: <b>Yes.</b>
 
 
