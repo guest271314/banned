@@ -21,7 +21,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 # Due Process, Recourse, Remedy, Transparency
 
-<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension, irrespective of the organizational status of the user?</h4>
+<h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension?</h4>
 
 - StackExchange: <b>No</b>
 - WHATWG: <b>No</b>
@@ -37,7 +37,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 # Reprisals
 
-<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions engage in reprisals against users for asking questions (Freedom of Speech) or attempting to appeal their imposed ban or suspension?</h4>
+<h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions engage in reprisals against users for asking questions (Freedom of Speech) and, or attempting to appeal the organizations' imposed ban or suspension?</h4>
 
 - StackExchange: <b>Yes</b>
 - WHATWG: <b>Yes.</b>
@@ -49,15 +49,13 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 # The Algorithm Did It
 
-<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions cite an algorithm as the reason for the ban or account suspension?</h4>
+<h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions cite an algorithm as the reason for the ban or account suspension?</h4>
 
 - StackExchange: <b>Yes</b>
 - Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Am not sure if a natural human being reads emails appealing an account suspension. Asked Twitter if an actual human being was reading the email, received no reply.
 
 # Show me your papers
-<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions ask you to email them a copy of a state issued identification, or a "real name" is required to join their organization, or to proceed with an appeal - even where no such state issued identification or "real name" was required to become a member of the organization or create a user account and the site does not disclose exactly what they would do with such a copy of a state issued document?</h4>
+<h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions ask you to email them a copy of a state issued identification, or a "real name" is required to join their organization, or to proceed with an appeal - even where no such state issued identification or "real name" was required to become a member of the organization or create a user account or file a bug report, and the site does not disclose exactly what they would do with such a copy of a state issued document?</h4>
 
 - Twitter: <b>Yes.</b>
 - W3C: <b>Yes.</b>
-
-
