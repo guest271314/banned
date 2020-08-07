@@ -41,6 +41,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - Twitter: <b>Yes.</b>
 - W3C: <b>Yes</b>
 - Web Platform Tests: <b>Yes</b>
+- TC39: <b>Yes</b>
 
 # The Algorithm Did It
 
