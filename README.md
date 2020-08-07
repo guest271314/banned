@@ -52,7 +52,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 <h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions cite an algorithm as the reason for the ban or account suspension?</h4>
 
 - StackExchange: <b>Yes</b>
-- Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Am not sure if a natural human being reads emails appealing an account suspension. Asked Twitter if an actual human being was reading the email, received no reply.
+- Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Asked Twitter if an actual human being was reading the email, received no reply.
 
 # Show me your papers
 <h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions ask you to email them a copy of a state issued identification, or a "real name" is required to join their organization, or to proceed with an appeal - even where no such state issued identification or "real name" was required to become a member of the organization or create a user account or file a bug report, and the site does not disclose exactly what they would do with such a copy of a state issued document?</h4>
