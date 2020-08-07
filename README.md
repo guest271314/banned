@@ -29,6 +29,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - Twitter: <b>No</b>
 - W3C: <b>No</b>
 - Web Platform Tests: <b>No</b>
+- TC39: <b>No</b>
 
 # Reprisals
 
