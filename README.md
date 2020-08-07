@@ -21,7 +21,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 # Due Process, Recourse, Remedy, Transparency
 
-<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension?</h4>
+<h4>Do individuals who run sites and organizations and who also impose account bans and user suspensions have a process in place for users to appeal the ban or suspension, irrespective of the organizational status of the user?</h4>
 
 - StackExchange: <b>No</b>
 - WHATWG: <b>No</b>
@@ -30,6 +30,10 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - W3C: <b>No</b>
 - Web Platform Tests: <b>No</b>
 - TC39: <b>No</b>
+
+<b>Ombuds</b>
+
+- W3C: <b>Yes.</b>
 
 # Reprisals
 
