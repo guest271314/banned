@@ -31,9 +31,9 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 - Web Platform Tests: <b>No</b>
 - TC39: <b>No</b>
 
-<b>Ombuds</b>
+<h3>Ombuds</h3>
 
-- W3C: <b><strike>Yes</strike> No</b> Yes, there is the title Ombuds at W3C, however, W3C arbitrarily blocks emails from containting the ombuds.
+- W3C: <b><strike>Yes</strike> No</b>. There is the title Ombuds at W3C, however, W3C arbitrarily blocks emails from containting the ombuds.
 
 # Reprisals
 
