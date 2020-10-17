@@ -53,6 +53,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 - StackExchange: <b>Yes</b>
 - Twitter: <b>Unknown. Could be both algorithm and undisclosed humans.</b> Asked Twitter if an actual human being was reading the email, received no reply.
+- GitHub ("Support Community" https://github.community): <b>Yes</b> "Your post contains a word that’s not allowed: Negro"
 
 # Show me your papers
 <h4>Do individuals who operate and maintain sites and organizations and who also impose account bans and user suspensions ask you to email them a copy of a state issued identification, or a "real name" is required to join their organization, or to proceed with an appeal - even where no such state issued identification or "real name" was required to become a member of the organization or create a user account or file a bug report, and the site does not disclose exactly what they would do with such a copy of a state issued document?</h4>
