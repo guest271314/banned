@@ -33,7 +33,7 @@ Do not expect claims of "respect" and "disprespect" to resolve issues. Those are
 
 <b>Ombuds</b>
 
-- W3C: <b>Yes.</b>
+- W3C: <b><strike>Yes</strike> No</b> Yes, there is the title Ombuds at W3C, however, W3C arbitrarily blocks emails from containting the ombuds.
 
 # Reprisals
 
